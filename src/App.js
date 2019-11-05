@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { Route } from 'react-router-dom';
 import data from './data';
-import { useParams } from 'react-router';
+
 
 //Contexts
 import { ProductContext } from './contexts/ProductContext';
